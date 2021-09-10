@@ -2,8 +2,10 @@
 
 > Apenas um cara apaixonado por desafios e tecnologia. 😎
 
-
-----
+<div> 
+  <a href = "mailto:moisesvidal09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-de-brito-e-silva-vidal-25404a173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## 🚀 Minhas Skills
 
