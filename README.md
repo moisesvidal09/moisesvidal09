@@ -1,6 +1,6 @@
-## 🤙 Salve, eu sou o <strong>Moisés!</strong>
+## 🤙 Salve, eu sou o <strong>Moisés!</strong> / 🤙 Hi, i am <strong>Moisés!</strong>
 
-> Apenas um cara apaixonado por desafios e tecnologia. 😎
+> Apenas um cara apaixonado por desafios e tecnologia. 😎 / Just a guy who loves challenges and technology. 😎
 
 <div> 
   <a href = "mailto:moisesvidal09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
