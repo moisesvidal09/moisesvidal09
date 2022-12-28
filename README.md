@@ -1,6 +1,6 @@
 ## Hi, i am <strong>Moisés! 😃</strong>
 
-> Just a guy who loves challenges and technology. 😎
+> Software developer with nearly 4 years of experience in the industry. Skilled in back-end development using languages/frameworks/technologies such as Java 8, Spring (DAO, Boot, MVC, etc...), SQL, Maven, GIT, JUnit, Docker, Hibernate, Jenkins and Kubernetes/Openshift. Proficient in agile development methodologies and experienced in working with distributed teams. Looking to leverage my skills and experience to contribute to the development of innovative software solutions.
 
 <div> 
   <a href = "mailto:moisesvidal09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
